@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+     <name>IceBuild</name>
+     <version>1.0</version>
+     <publisher>WSOFT</publisher>
+     <description>The AlicePackage build environment.</description>
+     <script>
+          include("main.ice");
+     </script>
+     <supportinterpreter>any</supportinterpreter>
+</package>
